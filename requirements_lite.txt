@@ -1,5 +1,0 @@
-flask
-Pillow
-opencv-python
-numpy
-requests
